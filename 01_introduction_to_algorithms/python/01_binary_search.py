@@ -26,3 +26,5 @@ print(binary_search(my_list, 3)) # => 1
 
 # 'None' means nil in Python. We use to indicate that the item wasn't found.
 print(binary_search(my_list, -1)) # => None
+
+print(binary_search([0, 1], 1))
